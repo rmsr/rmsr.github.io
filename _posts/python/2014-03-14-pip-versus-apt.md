@@ -5,7 +5,7 @@ date: 2014-03-13 14:43:00
 categories: python
 ---
 
-I was asked via email via an old colleague whether pip or apt (in the form of Debian packages and a private repository) is better for Python server software deployment. I thought I'd put my thoughts into a blog post.
+I was asked by an old colleague whether pip or apt (in the form of Debian packages and a private repository) is better for Python server software deployment. I thought I'd put my thoughts into a blog post.
 
 For some background, at an old company of mine, we ran our server software on a variety of physical and virtual Debian GNU/Linux machines. For software deployment, rather than roll our own solution or use one of the many automated deployment frameworks (which were, admittedly, somewhat less mature at that time), we packaged our software and various updated dependencies into .deb packages and deployed to the machines via apt installation.
 
