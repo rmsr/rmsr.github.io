@@ -1,4 +1,4 @@
 name: Ryan Smith-Roberts
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 permalink: none
