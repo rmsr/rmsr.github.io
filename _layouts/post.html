@@ -2,7 +2,14 @@
 layout: main
 ---
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<p class="meta">
+{{ page.date | date_to_string }}
+</p>
+{% if page.updated != null %}
+<p class="meta">
+Updated {{ page.updated | date_to_string }}
+</p>
+{% endif %}
 
 <div class="post">
 {{ content }}
