@@ -2,3 +2,4 @@ name: Ryan Smith-Roberts
 markdown: kramdown
 pygments: true
 permalink: none
+exclude: ['README.md', 'CNAME', 'Makefile']

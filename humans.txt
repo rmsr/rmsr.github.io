@@ -1,0 +1,18 @@
+/* the humans responsible & colophon */
+/* http://humanstxt.org */
+
+/* TEAM */
+  Maladroitist: Ryan Smith-Roberts
+  Contact: rmsr@lab.net
+  Site: http://lab.net
+  Location: Bellingham, Washington, United States of America
+
+/* THANKS */
+  HTML5 Boilerplate: http://html5boilerplate.com
+  Jekyll: http://jekyllrb.com
+  GitHub: https://github.com
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Ubuntu, Vim, git
